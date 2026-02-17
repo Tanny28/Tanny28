@@ -1,31 +1,28 @@
-<h1 align="center">Hi 👋, I'm Tanmay Shinde</h1>
-<h3 align="center">A passionate AI ML developer from India</h3>
+# ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=TANNY)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanny28&label=Profile%20views&color=0e75b6&style=flat" alt="tanny28" /> </p>
-
-- 🔭 I’m currently working on **ML Projects**
-
-- 🌱 I’m currently learning **Database and Python Libraries**
-
-- Pursuing B.Tech **2027**
-
-- 📫 How to reach me **shindetanmay282@gmail.com**
-
-- ⚡ Fun fact **I think I'm funny, but my code rarely agrees.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/tanmay-shinde-840a05340" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmay-shinde" height="30" width="40" />
-</a>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I+build+things+that+aren't+boring.)
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+A AI student obsessed with **Artificial Intelligence** and what it can unlock. I don't wait for the perfect moment to build — I pick up any idea that excites me, learn what I need, and ship it.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanny28&show_icons=true&locale=en&layout=compact" alt="tanny28" /></p>
+I'm not here to clone tutorials. If it's been built a thousand times, I'm not interested. I care about building things that are genuinely useful — real problems, real solutions, powered by AI.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanny28&show_icons=true&locale=en" alt="tanny28" /></p>
+Currently deep into the intersection of **LLMs, AI agents, and real-world applications**. Every project I build is a step toward understanding how intelligent systems can change the way we work, create, and solve problems.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanny28&" alt="tanny28" /></p>
+If you're looking for someone who is **hungry to learn, fast to ship, and serious about AI** — let's talk. 🤝
+
+Currently working on:
+
+- [Project One](https://your-project-one-url.com) — Short punchy description of what it is
+- [Project Two](https://your-project-two-url.com) - Your second active project. Any platform. The cool way. 🚀
+
+
+[![Skills](https://skillicons.dev/icons?i=vercel,netlify,mongo,mysql,supabase,firebase,django,fastapi,cpp,py,php,java,vscode,github,git,linux,discord)](https://skillicons.dev)
+
+[![](https://hit.yhype.me/github/profile?user_id=YOUR_GITHUB_USER_ID)](https://github.com/YOUR_USERNAME)
+
+
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
