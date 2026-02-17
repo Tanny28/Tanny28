@@ -19,10 +19,10 @@ Currently working on:
 
 [![Skills](https://skillicons.dev/icons?i=vercel,netlify,mongo,mysql,supabase,firebase,django,fastapi,cpp,py,php,java,vscode,github,git,linux,discord)](https://skillicons.dev)
 
-[![](https://hit.yhype.me/github/profile?user_id=YOUR_GITHUB_USER_ID)](https://github.com/YOUR_USERNAME)
+[![](https://hit.yhype.me/github/profile?user_id=YOUR_GITHUB_USER_ID)](https://github.com/Tanny28)
 
 
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanny28&theme=tokyonight)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanny28&theme=tokyo-night)
