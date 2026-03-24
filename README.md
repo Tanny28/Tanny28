@@ -13,8 +13,7 @@ If you're looking for someone who is **hungry to learn, fast to ship, and seriou
 
 Currently working on:
 
-- [Project One](https://your-project-one-url.com) — Short punchy description of what it is
-- [Project Two](https://your-project-two-url.com) - Your second active project. Any platform. The cool way. 🚀
+SOMETHING CRAZY
 
 
 [![Skills](https://skillicons.dev/icons?i=vercel,netlify,mongo,mysql,supabase,firebase,django,fastapi,cpp,py,php,java,vscode,github,git,linux,discord)](https://skillicons.dev)
