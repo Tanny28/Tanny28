@@ -13,10 +13,10 @@ If you're looking for someone who is **hungry to learn, fast to ship, and seriou
 
 Currently working on:
 
-SOMETHING CRAZY
+"AUTONOMA" — A Self-Healing, Self-Monitoring AI Agent Platform
 
 
-[![Skills](https://skillicons.dev/icons?i=vercel,netlify,mongo,mysql,supabase,firebase,django,fastapi,cpp,py,php,java,vscode,github,git,linux,discord)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=vercel,netlify,mongo,mysql,supabase,firebase,tensorflow,django,fastapi,cpp,py,php,java,vscode,github,git,linux,discord)](https://skillicons.dev)
 
 [![](https://hit.yhype.me/github/profile?user_id=101259685)](https://github.com/Tanny28)
 
