@@ -1,27 +1,19 @@
-# ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=TANNY)
+<a href="https://tanmay-shinde-28.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+    <img alt="Tanmay Shinde: AI Engineer, open to work" src="light_mode.svg">
+  </picture>
+</a>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I+build+things+that+aren't+boring.)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tanmay--shinde-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-shinde-840a05340/)
+[![Email](https://img.shields.io/badge/Email-shindetanmay282%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:shindetanmay282@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tanmay--shinde--28.vercel.app-000?logo=vercel)](https://tanmay-shinde-28.vercel.app)
 
-
-A AI student obsessed with **Artificial Intelligence** and what it can unlock. I don't wait for the perfect moment to build — I pick up any idea that excites me, learn what I need, and ship it.
-
-I'm not here to clone tutorials. If it's been built a thousand times, I'm not interested. I care about building things that are genuinely useful — real problems, real solutions, powered by AI.
-
-Currently deep into the intersection of **LLMs, AI agents, and real-world applications**. Every project I build is a step toward understanding how intelligent systems can change the way we work, create, and solve problems.
-
-If you're looking for someone who is **hungry to learn, fast to ship, and serious about AI** — let's talk. 🤝
-
-Currently working on:
-
-"AUTONOMA" — A Self-Healing, Self-Monitoring AI Agent Platform
-
-
-[![Skills](https://skillicons.dev/icons?i=vercel,netlify,mongo,mysql,supabase,firebase,tensorflow,django,fastapi,cpp,py,php,java,vscode,github,git,linux,discord)](https://skillicons.dev)
-
-[![](https://hit.yhype.me/github/profile?user_id=101259685)](https://github.com/Tanny28)
-
-
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanny28&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanny28&theme=tokyo-night)
+### Featured work
+| Project | What it does |
+|---|---|
+| [**AUTONOMA**](https://github.com/Tanny28/autonoma) | Tests whether an LLM agent diagnoses ML model degradation better than rules (final-year project, team of 4) |
+| [**Drone Security Analyst Agent**](https://github.com/Tanny28/flyt_assign) | VLM captions + CLIP search + rule-based alerts + LangChain agent. 5/5 on the FlytBase eval, 8/8 tests |
+| [**Smart Lecture Analyzer**](https://github.com/Tanny28/smart-lecture-analyzer) | Lecture video to chapters, transcript, MCQs and a PDF study guide ([live](https://smart-lecture.streamlit.app)) |
+| [**Alzheimer's MRI staging**](https://github.com/Tanny28/aso-alzheimer-staging) | CNN-feature fusion with leakage-safe subject splits: macro-AUC 0.81 on unseen patients |
+| [**Pixa Agent**](https://github.com/WisdomBoost-LLC/PixaAgent) | Open-source AI coding agent for VS Code, 8,000+ lines of TypeScript, 170+ tests |
