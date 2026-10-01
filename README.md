@@ -5,6 +5,8 @@
   </picture>
 </a>
 
+<p align="center"><img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=I+don't+wait+to+be+taught.+I+build+until+I+understand.;LLM+agents+that+actually+ship.;Turning+ML+research+into+working+systems.;AI+Engineer+Intern+%E2%80%94+open+to+work."></p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tanmay--shinde-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-shinde-840a05340/)
 [![Email](https://img.shields.io/badge/Email-shindetanmay282%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:shindetanmay282@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-tanmay--shinde--28.vercel.app-000?logo=vercel)](https://tanmay-shinde-28.vercel.app)
